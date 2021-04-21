@@ -1,10 +1,7 @@
----
-title: Number Merge Puzzle
----
 
 **About Number Merge Puzzle**
 
-Number Merge Puzzle is a fun and relaxing number puzzle game, with no any advertisement.
+Number Merge Puzzle is a fun and relaxing number puzzle game, with no any advertisement. It is available in the App Store and Google Play for free.
 
 **Contact Us**
 
